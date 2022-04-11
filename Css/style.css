@@ -1,0 +1,223 @@
+body{
+    height: auto;
+    width: 1255px;
+}
+
+
+div ul{
+    list-style: none;
+}
+div .menu .li1 {
+  color: blue;
+  display: inline-block;
+  background: chartreuse;
+  text-decoration: none;
+  font-size: 30px;
+  
+}
+
+
+div .menu .li1:hover{
+    color: red;
+    background: orange;
+}
+
+div ul{
+    list-style: none;
+}
+div .social{
+    display: inline-block;
+}
+.li2 {
+  color: blue;
+  display: inline-block;
+  background: chartreuse;
+  text-decoration: none;
+  font-size: 30px;
+  float: right;
+  margin: 5px;
+  
+}
+
+div .social .li2:hover{
+    color: red;
+    background: yellow;
+}
+
+
+.header1 .header{
+    color: darkblue;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.header1 div{
+    height: auto;
+    width: 1217px;
+    border: 5px green solid;
+    padding: 10px;
+   
+}
+    
+.header1 div:hover{
+    background: aqua;
+}
+
+}
+
+
+
+.div{
+    background: skyblue;
+    margin-top: 50px;
+    width: 1252px;
+    height: 515px;
+    display: block;
+
+}
+
+.div h1{
+    color: rgb(25, 0, 255);
+    text-align: center;
+    display: block;
+
+}
+.div1 p{
+    border: 5px green solid;
+    height: 400px;
+    width: 800px;
+    float: left;
+    overflow: scroll;
+    display: inline-block;
+}
+
+.div1 img{
+    border: 5px green solid;
+    border-radius: 1000px;
+    display: inline-block;
+}
+
+.div2 p{
+    border: 5px green solid;
+    height: 400px;
+    width: 800px;
+    float: right;
+    overflow: scroll;
+    display: inline-block;
+}
+.div2 img{
+    border: 5px green solid;
+    border-radius: 1000px;
+    display: inline-block;
+}
+
+.div3 p{
+    border: 5px green solid;
+    height: 400px;
+    width: 800px;
+    float: left;
+    overflow: scroll;
+    display: inline-block;
+}
+.div3 img{
+    border: 5px green solid;
+    border-radius: 1000px;
+    display: inline-block;
+}
+
+.div4 p{
+    border: 5px green solid;
+    height: 400px;
+    width: 800px;
+    float: right;
+    overflow: scroll;
+    display: inline-block;
+}
+.div4 img{
+    border: 5px green solid;
+    border-radius: 1000px;
+    display: inline-block;
+}
+
+.div5 p{
+    border: 5px green solid;
+    height: 400px;
+    width: 800px;
+    float: left;
+    overflow: scroll;
+    display: inline-block;
+}
+.div5 img{
+    border: 5px green solid;
+    border-radius: 1000px;
+    display: inline-block;
+}
+
+.div p{
+    padding: 10px;
+}
+
+.div .pa:hover{
+    height: auto;
+    background: #fff;
+}
+
+
+/* ইউনিয়ন পরিচিতি */
+.unip{
+    text-align: center;
+    color: blue;
+    margin-top: 50px;
+}
+ .divt .divu{
+     background: greenyellow;
+     border: 5px blue solid;
+     height: auto;
+    width: 400px;
+    display: inline-block;
+    
+ }
+.divt .div h2{
+    
+}
+
+ .divt .divu:hover{
+    
+ }
+
+ .divt .divu:hover{
+     height: auto;
+ }
+ .divt .divu p:hover{
+    height: auto;
+ }
+
+ .divt{
+     margin-top: 40px;
+ }
+.fhr{
+    margin-top: 50px;
+}
+.hrl{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+}
+
+ .footer{
+    margin-top: 200px;
+    margin-left: 580px;
+ }
+
+ div .social1 .li2 {
+    color: blue;
+    display: inline-block;
+    background: chartreuse;
+    text-decoration: none;
+    font-size: 30px;
+    float: left;
+    margin: 5px;
+    
+    
+  }

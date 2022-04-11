@@ -1,0 +1,11 @@
+div ul{
+    list-style: none;
+}
+div .menu .li1 {
+  color: blue;
+  display: inline-block;
+  background: chartreuse;
+  text-decoration: none;
+  font-size: 30px;
+  
+}

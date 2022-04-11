@@ -1,0 +1,81 @@
+body{
+  height: auto;
+  width: 1255px;
+}
+
+div ul{
+    list-style: none;
+}
+div .menu .li1 {
+  color: blue;
+  display: inline-block;
+  background: chartreuse;
+  text-decoration: none;
+  font-size: 30px;
+  
+}
+div .menu .li1:hover{
+  color: red;
+  background: orange;
+}
+div .social .li2 {
+  color: blue;
+  display: inline-block;
+  background: chartreuse;
+  text-decoration: none;
+  font-size: 30px;
+  float: right;
+  margin: 5px;
+  
+}
+
+div .social .li2:hover{
+    color: red;
+    background: yellow;
+}
+
+
+h1{
+  color: red;
+}
+div div h2{
+  color: blue;
+  background: none;
+}
+
+div div .list1 {
+  list-style: none;
+}
+div div .list1 .list {
+color: blue;
+background: chartreuse;
+text-decoration: none;
+font-size: 20px;
+margin: 10px;
+height: auto;
+width: 300px;
+
+}
+
+div div .list1 .list:hover{
+  color: green;
+  background: orangered;
+}
+
+
+.footer{
+  margin-top: 200px;
+  margin-left: 580px;
+}
+
+div .social1 .li2 {
+  color: blue;
+  display: inline-block;
+  background: chartreuse;
+  text-decoration: none;
+  font-size: 30px;
+  float: left;
+  margin: 5px;
+  
+  
+}

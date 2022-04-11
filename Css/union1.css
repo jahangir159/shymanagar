@@ -1,0 +1,92 @@
+body{
+  height: auto;
+  width: 1255px;
+}
+
+
+div ul{
+  list-style: none;
+}
+div .menu .li1 {
+color: blue;
+display: inline-block;
+background: chartreuse;
+text-decoration: none;
+font-size: 30px;
+
+}
+
+
+div .menu .li1:hover{
+  color: red;
+  background: orange;
+}
+
+div ul{
+  list-style: none;
+}
+div .social{
+  display: inline-block;
+}
+.li2 {
+color: blue;
+display: inline-block;
+background: chartreuse;
+text-decoration: none;
+font-size: 30px;
+float: right;
+margin: 5px;
+
+}
+
+div .social .li2:hover{
+  color: red;
+  background: yellow;
+}
+
+.main-p{
+  display: block;
+  margin-top: 100px;
+  
+}
+
+.main-p h1{
+  color: blue;
+  text-align: center;
+
+}
+p{
+  padding: 50px;
+}
+.main-p .table{
+  margin-left: 50px;
+  float: left;
+}
+.main-p .table td{
+  border: 5px green solid;
+  padding: 5px;
+  
+ 
+}
+.main-p img{
+  margin: 50px;
+  margin-bottom: 400px;
+}
+
+.footer{
+  margin-top: 200px;
+  
+  text-align: center;
+}
+
+div .social1 .li2 {
+  color: blue;
+  display: inline-block;
+  background: chartreuse;
+  text-decoration: none;
+  font-size: 30px;
+  float: left;
+  margin: 5px;
+  
+  
+}

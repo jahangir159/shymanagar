@@ -1,0 +1,48 @@
+body{
+    height: auto;
+    width: 1255px;
+  }
+  
+  div ul{
+      list-style: none;
+  }
+  div .menu .li1 {
+    color: blue;
+    display: inline-block;
+    background: chartreuse;
+    text-decoration: none;
+    font-size: 30px;
+    
+  }
+  div .menu .li1:hover{
+    color: red;
+    background: orange;
+  }
+  div .social .li2 {
+    color: blue;
+    display: inline-block;
+    background: chartreuse;
+    text-decoration: none;
+    font-size: 30px;
+    float: right;
+    margin: 5px;
+    
+  }
+  
+  div .social .li2:hover{
+      color: red;
+      background: yellow;
+  }
+  
+/* Write Code*/
+
+div .social1 .li2 {
+    color: blue;
+    display: inline-block;
+    background: chartreuse;
+    text-decoration: none;
+    font-size: 30px;
+    float: left;
+    margin: 5px;
+    
+  }
